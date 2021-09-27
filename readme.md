@@ -87,7 +87,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Video Walkthrough of backend functionality](https://watch.screencastify.com/v/aJjJetYmCO1Bf3eREWFJ)
+![ScreenShot](./Book-Search-Engine-screenshot.png)
 
 
 
@@ -97,7 +97,7 @@
 * [HTML]()
 * [CSS]()
 * [Javascript]()
-* [mongodb]
+* [GraphQL]()
 
 
 
@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kama Castaneda - [@tbegush](https://twitter.com/tbegush) - tbegush@gmail.com - 
+Thomas Begush - [@tbegush](https://twitter.com/tbegush) - tbegush@gmail.com - 
 
 Project Link: [https://github.com/tbegush/Book-Search-Engine](https://github.com/tbegush/Book-Search-Engine)
 
